@@ -116,5 +116,14 @@
       }
     },
     "duration": 65
+  },
+  "Žan Garantini": {
+    "availability": {
+      "Friday": {
+        "start_time": "15:00",
+        "end_time": "16:00"
+      }
+    },
+    "duration": 60
   }
 }

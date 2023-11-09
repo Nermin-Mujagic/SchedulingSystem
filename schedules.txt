@@ -1,44 +1,66 @@
-16:10: Elvis Lihić
-15:10: Luka Tomažin
-14:10: Jaka Kunič
-13:10: Tilen Medved
----
-14:10: Aljaž Trebušak
-16:10: Žiga Kos
-15:10: Sebastjan Plaznik
-13:05: Tim Popović
----
-------------------------
-16:10: Elvis Lihić
-15:10: Luka Tomažin
-13:10: Tilen Medved
-14:10: Sebastjan Plaznik
----
-15:10: Aljaž Trebušak
-14:10: Jaka Kunič
-16:10: Žiga Kos
-13:05: Tim Popović
----
-------------------------
-16:00: Luka Tomažin
-15:00: Jaka Kunič
+16:00: Aljaž Trebušak
 13:10: Tilen Medved
 14:00: Sebastjan Plaznik
+15:00: Žan Garantini
 ---
 15:20: Elvis Lihić
-14:20: Aljaž Trebušak
+13:20: Luka Tomažin
+14:20: Jaka Kunič
 16:10: Žiga Kos
-13:15: Tim Popović
 ---
 ------------------------
-15:00: Luka Tomažin
 16:00: Jaka Kunič
 13:10: Tilen Medved
 14:00: Sebastjan Plaznik
+15:00: Žan Garantini
+---
+15:20: Elvis Lihić
+13:20: Luka Tomažin
+14:20: Aljaž Trebušak
+16:10: Žiga Kos
+---
+------------------------
+14:00: Jaka Kunič
+13:10: Tilen Medved
+16:00: Sebastjan Plaznik
+15:00: Žan Garantini
+---
+15:20: Elvis Lihić
+13:20: Luka Tomažin
+14:20: Aljaž Trebušak
+16:10: Žiga Kos
+---
+------------------------
+16:00: Luka Tomažin
+14:00: Jaka Kunič
+13:10: Tilen Medved
+15:00: Žan Garantini
 ---
 15:20: Elvis Lihić
 14:20: Aljaž Trebušak
 16:10: Žiga Kos
-13:15: Tim Popović
+13:20: Sebastjan Plaznik
+---
+------------------------
+16:00: Luka Tomažin
+13:10: Tilen Medved
+14:00: Sebastjan Plaznik
+15:00: Žan Garantini
+---
+15:20: Elvis Lihić
+14:20: Aljaž Trebušak
+13:20: Jaka Kunič
+16:10: Žiga Kos
+---
+------------------------
+16:00: Aljaž Trebušak
+14:00: Jaka Kunič
+13:10: Tilen Medved
+15:00: Žan Garantini
+---
+15:20: Elvis Lihić
+13:20: Luka Tomažin
+16:10: Žiga Kos
+14:20: Sebastjan Plaznik
 ---
 ------------------------
