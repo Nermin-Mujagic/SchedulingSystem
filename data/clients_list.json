@@ -1,0 +1,129 @@
+{
+  "Elvis Lihić": {
+    "availability": {
+      "Friday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 50
+  },
+  "Luka Tomažin": {
+    "availability": {
+      "Friday": {
+        "start_time": "15:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 60
+  },
+  "Rene Bučar": {
+    "availability": {
+      "Friday": {
+        "start_time": "14:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 70
+  },
+  "Žiga Sušnik": {
+    "availability": {
+      "Friday": {
+        "start_time": "15:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 80
+  },
+  "Aljaž Trebušak": {
+    "availability": {
+      "Friday": {
+        "start_time": "15:30",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "14:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 60
+  },
+  "Jaka Kunič": {
+    "availability": {
+      "Friday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 60
+  },
+  "Tilen Medved": {
+    "availability": {
+      "Friday": {
+        "start_time": "13:00",
+        "end_time": "14:00"
+      }
+    },
+    "duration": 50
+  },
+  "Žiga Kos": {
+    "availability": {
+      "Saturday": {
+        "start_time": "15:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 50
+  },
+  "Sebastjan Plaznik": {
+    "availability": {
+      "Friday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      },
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 60
+  },
+  "Tim Popović": {
+    "availability": {
+      "Saturday": {
+        "start_time": "13:00",
+        "end_time": "17:00"
+      }
+    },
+    "duration": 65
+  },
+  "Žan Garantini": {
+    "availability": {
+      "Friday": {
+        "start_time": "15:00",
+        "end_time": "16:00"
+      }
+    },
+    "duration": 60
+  }
+}
